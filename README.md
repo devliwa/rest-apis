@@ -1,5 +1,9 @@
 # rest-apis
 
+
+<img width="1300" height="664" alt="Screenshot 2025-09-23 at 6 53 58 PM" src="https://github.com/user-attachments/assets/0e621d32-7c8b-4373-910c-6f3823b16c0e" />
+
+
 - HINTs: Use the axios documentation as well as the video lesson to help you.
 - https://axios-http.com/docs/post_example
 - Use the Secrets API documentation to figure out what each route expects and how to work with it.
